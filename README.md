@@ -2,7 +2,45 @@
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=5.0, user-scalable=yes">
+    <meta name="description" content="가상계좌 관리 시스템 - 고객/관리자 통합 플랫폼">
+    <meta name="keywords" content="가상계좌, 계좌관리, 대출, 신청, 관리자, 금융">
+    <meta name="author" content="Korea Federation of Banks">
+    <meta name="theme-color" content="#667eea">
+    <meta name="color-scheme" content="light dark">
+
+    <!-- Apple Mobile Web App Meta Tags -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="가상계좌 관리">
+    <meta name="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect fill='%23667eea' width='180' height='180'/><text x='50%' y='50%' font-size='100' text-anchor='middle' dominant-baseline='central' font-family='system-ui' font-weight='bold' fill='white'>🏦</text></svg>">
+    <meta name="apple-touch-icon-precomposed" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect fill='%23667eea' width='180' height='180'/><text x='50%' y='50%' font-size='100' text-anchor='middle' dominant-baseline='central' font-family='system-ui' font-weight='bold' fill='white'>🏦</text></svg>">
+
+    <!-- Windows/Android Meta Tags -->
+    <meta name="msapplication-TileColor" content="#667eea">
+    <meta name="msapplication-config" content="browserconfig.xml">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="email=no">
+
+    <!-- Open Graph (Social Media) Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="가상계좌 관리 시스템 - 고객/관리자 통합">
+    <meta property="og:description" content="효율적인 가상계좌 관리 및 대출 신청 플랫폼">
+    <meta property="og:url" content="https://virtual-account.example.com">
+    <meta property="og:image" content="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 630'><rect fill='%23667eea' width='1200' height='630'/><text x='600' y='300' font-size='120' text-anchor='middle' dominant-baseline='central' font-family='system-ui' font-weight='bold' fill='white'>🏦 가상계좌 관리</text></svg>">
+    <meta property="og:site_name" content="가상계좌 관리 시스템">
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="가상계좌 관리 시스템">
+    <meta name="twitter:description" content="효율적인 가상계좌 관리 및 대출 신청 플랫폼">
+
+    <!-- Additional Mobile Meta Tags -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="HandheldFriendly" content="true">
+    <meta name="MobileOptimized" content="width">
+    <meta name="skype_toolbar" content="skype_toolbar_parser_compatible">
+
     <title>가상계좌 관리 시스템 - 고객/관리자 통합</title>
     <style>
         * {
